@@ -1,2 +1,13 @@
 //Testing, this is a text doc to be used for GitHub exercise. 
 // I made a change, hehe
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>My First Heading</h1>
+
+<p>Hello, this is my first github exercise ever!</p>
+
+</body>
+</html>
